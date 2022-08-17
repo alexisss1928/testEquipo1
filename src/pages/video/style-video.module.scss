@@ -1,0 +1,73 @@
+.container {
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle {
+  position: absolute;
+  font-size: 18px;
+  left: 150px;
+  top: 190px;
+}
+
+.submit {
+  position: absolute;
+  font-size: 14px;
+  width: 150px;
+  height: 50px;
+  left: 600px;
+  top: 350px;
+  background-color: #b7cadb;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.messageError {
+  color: red;
+  left: 880px;
+  top: 280px;
+}
+
+.spanURL {
+  position: absolute;
+  font-size: 15px;
+  left: 400px;
+  top: 200px;
+}
+
+.inputURL {
+  position: absolute;
+  font-size: 15px;
+  left: 650px;
+  top: 200px;
+  width: 500px;
+  color: #111831;
+  padding: 10px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: text;
+}
+
+.divMensaje {
+  position: absolute;
+  font-size: 14px;
+  left: 680px;
+  top: 280px;
+}
+
+.title {
+  padding-left: 5rem;
+  text-transform: uppercase;
+  padding-top: 1rem;
+  color: #ffffff;
+  padding-bottom: 1rem;
+}
+.containerTitle {
+  border-radius: 10px;
+  background-color: #b7cadb;
+  width: 1450px;
+  margin-left: 15px;
+  margin-right: 15px;
+}

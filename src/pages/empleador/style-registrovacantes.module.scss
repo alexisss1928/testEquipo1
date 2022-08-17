@@ -1,0 +1,139 @@
+.containerTitle {
+  font-size: x-large;
+  color: #111831;
+  font-family: "Poppins";
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+.recurso11 {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+  margin-left: 65rem;
+  top: 20rem;
+}
+
+.input {
+  width: 550px;
+  height: 20px;
+  color: #111831;
+  padding: 10px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 200;
+  cursor: text;
+  font-size: 14px;
+  margin-bottom: 1rem;
+  margin-left: 3rem;
+}
+
+.input1 {
+  width: 1300px;
+  height: 20px;
+  color: #111831;
+  padding: 10px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 200;
+  cursor: text;
+  font-size: 14px;
+  margin-bottom: 1rem;
+  margin-left: 3rem;
+}
+
+.buttonSubmit {
+  background: #b7cadb;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-left: 40rem;
+  margin-top: 2rem;
+  padding: 1rem 2rem 1rem 2rem;
+  cursor: pointer;
+}
+
+.inputSelect {
+  width: 300px;
+  height: 50px;
+  color: #000000;
+  padding: 8px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 200;
+  cursor: text;
+  font-size: 14px;
+  margin-top: 1em;
+}
+
+.inputURL {
+  position: absolute;
+  font-size: 15px;
+  width: 500px;
+  color: #111831;
+  padding: 10px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: text;
+  left: 75px;
+  top: 829px;
+}
+
+.divMensaje {
+  position: absolute;
+  font-size: 14px;
+  left: 75px;
+  top: 875px;
+  color: red;
+}
+
+.columna {
+  column-count: 2;
+  column-gap: 3em;
+  column-rule: 1px solid #bbb;
+  padding-left: 1rem;
+  padding-right: 10rem;
+}
+
+textarea {
+  resize: none;
+  color: #111831;
+  padding: 10px 12px;
+  border: 1px solid #d1d6dc;
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 200;
+  cursor: text;
+  font-size: 14px;
+  margin-bottom: 1rem;
+  margin-left: 4rem;
+}
+
+p {
+  margin-left: 4rem;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-left: 4rem;
+  margin-top: 9rem;
+}
+
+.input2 {
+    width: 1225px;
+    height: 20px;
+    color: #111831;
+    padding: 10px 12px;
+    border: 1px solid #d1d6dc;
+    border-radius: 10px;
+    background-color: transparent;
+    font-weight: 200;
+    cursor: text;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+  }

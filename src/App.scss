@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+$font-stack: 'Poppins', sans-serif;
+$primary-color: #b7cadb;
+$secondary-color: #afc4d7;
+$tertiary-color: #c4c4c4;
+$quaternary-color: #3b3b3b;
+
+:root {
+  --primary-color: red;
+}
+
+*::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: $font-stack;
+}
+html {
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  font-family: $font-stack;
+}
